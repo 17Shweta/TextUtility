@@ -1,0 +1,16 @@
+https://v5.reactrouter.com/web/guides/quick-start
+
+favicons generator
+
+
+to study about deployment of create-react-app 
+https://create-react-app.dev/docs/deployment/
+
+
+npm run build
+   working: The build folder is ready to be deployed.
+            You may serve it with a static server:
+
+
+
+
